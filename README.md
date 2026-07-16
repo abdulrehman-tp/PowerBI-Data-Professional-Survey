@@ -1,4 +1,4 @@
-# PowerBI-Data-Professional-Survey
+# Data Professional Survey (Power BI)
 An interactive Power BI dashboard analyzing survey responses from data professionals.
 # 📊 Power BI - Data Professional Survey Dashboard
 
