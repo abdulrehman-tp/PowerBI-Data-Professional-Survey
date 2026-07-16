@@ -1,4 +1,7 @@
 # Data Professional Survey (Power BI)
+# Data Professional Survey Dashboard
+Power BI | Data Visualization | DAX | Power Query | Data Modeling
+
 An interactive Power BI dashboard analyzing survey responses from data professionals.
 # 📊 Power BI - Data Professional Survey Dashboard
 
